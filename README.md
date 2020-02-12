@@ -1,5 +1,5 @@
 # LANScan
-A multithreaded console application that allows the user to scan a server's filesystem for a given expression contained within a file over a LAN network.
+Multithreaded console application that allows the user to scan a server's filesystem for a given expression contained within a file over a LAN network.
 
 ## Usage
 
